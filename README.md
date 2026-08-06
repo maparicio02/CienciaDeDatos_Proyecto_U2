@@ -1,4 +1,4 @@
-#Visualizador Acústico Espaciotemporal 3D
+# Visualizador Acústico Espaciotemporal 3D
 
 Aplicación desarrollada en Python para el análisis y visualización interactiva de archivos de audio (WAV y MP3). El sistema extrae características acústicas, reduce su dimensionalidad mediante Análisis de Componentes Principales (PCA) y representa la evolución temporal del audio como una trayectoria tridimensional sincronizada con la reproducción.
 
